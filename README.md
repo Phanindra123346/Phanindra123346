@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Phanindra Hari Durga Prasad</h1>
 <h3 align="center">A passionate Full Stack Python developer from India</h3>
 
+- 🔭 I’m currently working on **Bank Account Creation**
+
+- 🌱 I’m currently learning **Djanjo**
+
+- 💬 Ask me about **Django , Python , Html, CSS, JavaScript ,Oracle SQL**
+
+- 📫 How to reach me **phanindrakatarihari@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
